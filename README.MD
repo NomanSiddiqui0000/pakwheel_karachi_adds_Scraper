@@ -5,7 +5,16 @@ Pakwheel url: https://www.pakwheels.com/
 <h2>Spiders</h2>
 This project just contain one spider 'pw.py'.
 
+<h2>Requirements for this project</h2>
+
+python3
+  '''pip install python'''
+scrapy
+  '''pip install scrapy'''
+
 <h2>How to Used Spider</h2>
+
+
 
 
 
