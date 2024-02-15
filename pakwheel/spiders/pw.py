@@ -2,7 +2,7 @@ import scrapy
 
 
 class PakSpider(scrapy.Spider):
-    name = "pak"
+    name = "pw"
     allowed_domains = ["www.pakwheels.com"]
     start_urls = ["https://www.pakwheels.com/used-cars/karachi/24857"]
 
